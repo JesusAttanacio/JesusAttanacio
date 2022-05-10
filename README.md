@@ -1,10 +1,10 @@
 <div>
-  <h1 align="center">Hola soy <a href="https://www.linkedin.com/in/jesus-attanacio//"><i>Jesus Attanacio</i></a> 😃️</h1>
-  comparto mi conocimiento en mi canal en <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>YouTube</i></a><span> 👉🏽️</span><!-- 
+  <h1 align="center">Hola soy <a href="https://www.linkedin.com/in/jesus-attanacio//"><i>Jesus Attanacio</i></a> 😃️</h1><!-- 
+  comparto mi conocimiento en mi canal en <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>YouTube</i></a><span> 👉🏽️</span>
   <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
-    <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />-->
+    <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
   </a><br>
-  <p align="center">suscríbete!, tu contribución será muy bienvenida, ¡gracias!! 😉️</h2>
+  <p align="center">suscríbete!, tu contribución será muy bienvenida, ¡gracias!! 😉️</h2>-->
 </div>
 
 <div align="center">
